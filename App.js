@@ -1,4 +1,4 @@
-import React , { Component } from 'react';
+import React ,{ Component } from 'react';
 import Navigation from './components/navigation/navigation';
 import './App.css';
 import Clarifai from 'clarifai';
